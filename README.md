@@ -27,6 +27,10 @@ EddieMote a.k.a EducaMote is the project submitted for Call for Code 2020.
 
 EddieMote is an interactive learning platform – keeping students & teachers connected.  
 
+## Demo video
+
+[![Watch the video](https://github.com/palcts/Educamote/blob/master/Assets/ios/EddieMote_Thumbnail.jpg)](https://youtu.be/49-Cj9FYjCg)
+
 ### What's the problem?
 
 Due to Covid-19 a new demand for a remote eduction solution came up. Students started missing their daily school routine, meeting up with their mates and learning about new topics. On the other side are schools and teachers: A tool that offers a playful and interactive learning environment was missing as well as a solution that makes it possible to connect to students from everywhere, at any time, as real as possible. Tracking personal progress of each student was is hard as well. We would like to tackle those challenges with our application EddieMote which is available as a mobile and desktop version. Both versions complement each other perfectly and leave no need unanswered – an all-in-one-solution that solves the chaos of having to many different platforms for different demands. 
@@ -47,9 +51,6 @@ Right now we have used the following IBM Technologies: Watson Assistant, Text to
 ### The idea
 
 During our market research we compared similar platforms, their features and values delivered to students and teachers. The analysis showed that the platforms are missing the focus on collaboration, exchange and communication. The purpose of creating a real classroom atmosphere was missing. Therefore, our solution EddieMote focuses on a factor that is essential during times of Covid-19: Connection. The virtual classroom, breakout sessions for group work or the opportunity for teachers to leave advises and comments directly under a grade or homework enhance that trustful virtual learning environment. Our main purpose is to make EddieMote as real as possible, imitating an almost normal day at school.
-## Demo video
-
-[![Watch the video](https://github.com/palcts/Educamote/blob/master/Assets/ios/EddieMote_Thumbnail.jpg)](https://youtu.be/49-Cj9FYjCg)
 
 ## The architecture
 
