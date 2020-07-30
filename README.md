@@ -5,7 +5,7 @@ EddieMote is an interactive learning platform – keeping students & teachers co
 
 [![License](https://img.shields.io/badge/License-Apache2-blue.svg)](https://www.apache.org/licenses/LICENSE-2.0)
 
-EddieMote a.k.a EducaMote is the project submitted for Call for Code 2020.
+Due to our brand strategy we changed the name from Educamote to EddieMote.
 
 
 ## Contents
