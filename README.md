@@ -64,6 +64,9 @@ During our market research we compared similar platforms, their features and val
 
 ## Idea Proposal
 
+[![Idea Proposal](https://github.com/palcts/Educamote/blob/master/Assets/ios/file-text%402x.png)](https://github.com/palcts/Educamote/blob/master/Assets/ios/Idea_Digital_Warriors_long_version_presentation.pdf)
+
+[Idea Proposal](https://github.com/palcts/Educamote/blob/master/Assets/ios/Idea_Digital_Warriors_long_version_presentation.pdf)
 ![Idea Proposal](https://github.com/palcts/Educamote/blob/master/Assets/ios/Idea_Digital_Warriors_long_version_presentation.pdf)
 
 ## Project roadmap
