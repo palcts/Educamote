@@ -13,7 +13,7 @@ Due to our brand strategy we changed the name from Educamote to EddieMote.
 1. [EddieMote](#short-description)
 1. [Demo video](#demo-video)
 1. [The architecture](#the-architecture)
-1. [Long description](#long-description)
+1. [Idea Proposal](#long-description)
 1. [Project roadmap](#project-roadmap)
 1. [Getting started](#getting-started)
 1. [Running the tests](#running-the-tests)
@@ -63,13 +63,16 @@ During our market research we compared similar platforms, their features and val
 3. Watson Translation (optionally) can translate the text to the desired language.
 4. The app stores the translated text as a document within Object Storage.
 
-## Long description
+## Idea Proposal
 
-[More detail is available here](DESCRIPTION.md)
+
+![Idea Proposal](https://github.com/palcts/Educamote/blob/master/Assets/ios/Idea_Digital_Warriors_long_version_presentation.pdf)
+ 
+
 
 ## Project roadmap
 
-![Roadmap](roadmap.jpg)
+![Roadmap](https://github.com/palcts/Educamote/blob/master/Assets/ios/MicrosoftTeams-image.png)
 
 ## Getting started
 
