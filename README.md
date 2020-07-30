@@ -1,5 +1,7 @@
-# Educamote
-“Educamote” (education + remote) is a playful and interactive learning platform that keeps students and teachers connected.  We believe that staying connected and exploring new ways of teaching is the key to a trustful learning environment from everywhere, at any time, as real as possible. 
+# EddieMote
+EddieMote is an interactive learning platform – keeping students & teachers connected.  
+
+“EddieMote” (education + remote) is a playful and interactive learning platform that keeps students and teachers connected.  We believe that staying connected and exploring new ways of teaching is the key to a trustful learning environment from everywhere, at any time, as real as possible. 
 
 [![License](https://img.shields.io/badge/License-Apache2-blue.svg)](https://www.apache.org/licenses/LICENSE-2.0)
 
@@ -25,7 +27,7 @@ EddieMote a.k.a EducaMote is the project submitted for Call for Code 2020.
 
 ## EddieMote
 
-EddieMote is an interactive learning platform – keeping students & teachers connected.  
+
 
 ## Demo video
 
