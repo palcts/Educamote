@@ -10,10 +10,9 @@ Due to our brand strategy we changed the name from Educamote to EddieMote.
 
 ## Contents
 
-1. [EddieMote](#short-description)
 1. [Demo video](#demo-video)
 1. [The architecture](#the-architecture)
-1. [Idea Proposal](#long-description)
+1. [Idea Proposal](#idea-proposal)
 1. [Project roadmap](#project-roadmap)
 1. [Getting started](#getting-started)
 1. [Running the tests](#running-the-tests)
