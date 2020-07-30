@@ -1,15 +1,6 @@
 # Educamote
 “Educamote” (education + remote) is a playful and interactive learning platform that keeps students and teachers connected.  We believe that staying connected and exploring new ways of teaching is the key to a trustful learning environment from everywhere, at any time, as real as possible. 
 
-# Problem Statement:
-“We need to bring learning to people instead of people to learning.” (Elliot Masie) The app is for students and teachers – therefore we identified two different problem statements. 
-Challenge Students: Miss the daily school life and interaction with fellow students; Get distracted by too many app features; Need to be motivated. Challenge Teacher: Have no chance to reach each student from everywhere; Lack a tool to oversee the individual progress of each student.  
-
-# Stay tuned !!! 
-
-
-# Submission name
-
 [![License](https://img.shields.io/badge/License-Apache2-blue.svg)](https://www.apache.org/licenses/LICENSE-2.0)
 
 EddieMote a.k.a EducaMote is the project submitted for Call for Code 2020.
@@ -40,6 +31,10 @@ EddieMote is an interactive learning platform – keeping students & teachers co
 
 Due to Covid-19 a new demand for a remote eduction solution came up. Students started missing their daily school routine, meeting up with their mates and learning about new topics. On the other side are schools and teachers: A tool that offers a playful and interactive learning environment was missing as well as a solution that makes it possible to connect to students from everywhere, at any time, as real as possible. Tracking personal progress of each student was is hard as well. We would like to tackle those challenges with our application EddieMote which is available as a mobile and desktop version. Both versions complement each other perfectly and leave no need unanswered – an all-in-one-solution that solves the chaos of having to many different platforms for different demands. 
 
+“We need to bring learning to people instead of people to learning.” (Elliot Masie) The app is for students and teachers – therefore we identified two different problem statements. 
+Challenge Students: Miss the daily school life and interaction with fellow students; Get distracted by too many app features; Need to be motivated. Challenge Teacher: Have no chance to reach each student from everywhere; Lack a tool to oversee the individual progress of each student.  
+
+
 ### How can technology help?
 
 Schools and teachers can continue to engage with their students through virtual classrooms, and even create interactive spaces for classes. As parents face a new situation where they may need to homeschool their children, finding appropriate online resources is important as well.
@@ -54,11 +49,11 @@ Right now we have used the following IBM Technologies: Watson Assistant, Text to
 During our market research we compared similar platforms, their features and values delivered to students and teachers. The analysis showed that the platforms are missing the focus on collaboration, exchange and communication. The purpose of creating a real classroom atmosphere was missing. Therefore, our solution EddieMote focuses on a factor that is essential during times of Covid-19: Connection. The virtual classroom, breakout sessions for group work or the opportunity for teachers to leave advises and comments directly under a grade or homework enhance that trustful virtual learning environment. Our main purpose is to make EddieMote as real as possible, imitating an almost normal day at school.
 ## Demo video
 
-[![Watch the video](https://github.com/Code-and-Response/Liquid-Prep/blob/master/images/IBM-interview-video-image.png)](https://youtu.be/49-Cj9FYjCg)
+[![Watch the video](https://github.com/palcts/Educamote/blob/master/Assets/ios/EddieMote_Thumbnail.jpg)](https://youtu.be/49-Cj9FYjCg)
 
 ## The architecture
 
-![Video transcription/translation app](https://developer.ibm.com/developer/tutorials/cfc-starter-kit-speech-to-text-app-example/images/cfc-covid19-remote-education-diagram-2.png)
+![Video transcription/translation app](https://github.com/palcts/Educamote/blob/master/Assets/ios/architecture.png)
 
 1. The user navigates to the site and uploads a video file.
 2. Watson Speech to Text processes the audio and extracts the text.
@@ -172,4 +167,3 @@ This project is licensed under the Apache 2 License - see the [LICENSE](LICENSE)
 ## Acknowledgments
 
 * Based on [Billie Thompson's README template](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2).
-
