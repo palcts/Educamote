@@ -17,7 +17,7 @@ Due to our brand strategy we changed the name from Educamote to EddieMote.
 1. [Getting started](#getting-started)
 1. [Running the tests](#running-the-tests)
 1. [Live demo](#live-demo)
-1. [Built with](#built-with)
+1. [Clickable Prototype](#clickable-prototype)
 1. [Contributing](#contributing)
 1. [Versioning](#versioning)
 1. [Authors](#authors)
@@ -69,12 +69,19 @@ During our market research we compared similar platforms, their features and val
 
 [![Idea Proposal](https://github.com/palcts/Educamote/blob/master/Assets/ios/IdeaProposal.png)](https://github.com/palcts/Educamote/blob/master/Assets/ios/Idea_Digital_Warriors_long_version_presentation.pdf)
 
-
-
-
 ## Project roadmap
 
 ![Roadmap](https://github.com/palcts/Educamote/blob/master/Assets/ios/MicrosoftTeams-image.png)
+
+##  Live Demo
+
+You can find a built in Debug APK [Android App](https://github.com/palcts/Educamote/blob/master/Assets/ios/v0%20app-debug%20.apk)
+
+## Clickable Prototype
+
+1. Mobile App [Clickable Prototype](https://damian185394.invisionapp.com/public/share/M61B6L35H7)
+2. Desktop App [Clickable Prototype](https://damian185394.invisionapp.com/public/share/PZ1B1RYYT3)
+
 
 ## Getting started
 
@@ -136,10 +143,6 @@ npm install eslint --save-dev
 npx eslint --init
 npx eslint sample-file.js
 ```
-
-##  Demo using APK
-
-You can find a built in Debug APK [Android App](https://github.com/palcts/Educamote/blob/master/Assets/ios/v0%20app-debug%20.apk)
 
 ## Built with
 
