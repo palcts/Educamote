@@ -57,10 +57,10 @@ During our market research we compared similar platforms, their features and val
 
 ![Video transcription/translation app](https://github.com/palcts/Educamote/blob/master/Assets/ios/architecture.png)
 
-1. The user navigates to the site and uploads a video file.
+1. The user navigates to the site and clicks on "Chat icon". End user can either ask Eddie with Audio or Text as input format.
 2. Watson Speech to Text processes the audio and extracts the text.
-3. Watson Translation (optionally) can translate the text to the desired language.
-4. The app stores the translated text as a document within Object Storage.
+3. Watson Assistant responds back based on the Dialog response 
+4. The response is delivered back in text form and converted to Audio using IBM Android SDK
 
 ## Idea Proposal
 
@@ -139,7 +139,7 @@ npx eslint sample-file.js
 
 ##  Demo using APK
 
-You can find a built in Debug APK [callforcode.mybluemix.net](http://callforcode.mybluemix.net/)
+You can find a built in Debug APK [Android App](https://github.com/palcts/Educamote/blob/master/Assets/ios/v0%20app-debug%20.apk)
 
 ## Built with
 
