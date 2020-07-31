@@ -85,23 +85,19 @@ You can find a built in Debug APK [Android App](https://github.com/palcts/Educam
 
 ## Getting started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+This repository contains the Android App source code and the Image assets.
 
 ### Prerequisites
 
-What things you need to install the software and how to install them
-
-```bash
-dnf install wget
-wget http://www.example.com/install.sh
-bash install.sh
-```
+- You need Android Studio.
+- Android SDK with 28 support libs.
+- IBM Watson Assistant API Key and Credentials
+- IBM Text to Speech Service API Key and Credential
+- IBM Speech to Text Service API Key and Credential
 
 ### Installing
 
-A step by step series of examples that tell you how to get a development env running
-
-Say what the step will be, for example
+In the Config.xml file, enter your API Keys and Credentials
 
 ```bash
 export TOKEN="fffd0923aa667c617a62f5A_fake_token754a2ad06cc9903543f1e85"
@@ -163,7 +159,7 @@ Please feel free to contribute and submit pull requests.
 
 ## Versioning
 
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags).
+We would use [SemVer](http://semver.org/) for versioning.
 
 ## Authors
 
