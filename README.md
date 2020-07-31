@@ -159,7 +159,7 @@ Following are in progress for furture feature implementation,
 
 ## Contributing
 
-Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests to us.
+Please feel free to contribute and submit pull requests.
 
 ## Versioning
 
@@ -169,7 +169,7 @@ We use [SemVer](http://semver.org/) for versioning. For the versions available, 
 
 * **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
 
-See also the list of [contributors](https://github.com/Code-and-Response/Project-Sample/graphs/contributors) who participated in this project.
+See also the list of [contributors](https://github.com/palcts/Educamote/graphs/contributors) who participated in this project.
 
 ## License
 
