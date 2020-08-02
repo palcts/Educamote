@@ -97,30 +97,56 @@ This repository contains the Android App source code and the Image assets.
 
 ### Installing
 
-In the Config.xml file, enter your API Keys and Credentials
+The config.xml file is available in your values folder
+In the config.xml file, enter your WATSON ASSISTANT ID, API Key and URL
 
 ```bash
-export TOKEN="fffd0923aa667c617a62f5A_fake_token754a2ad06cc9903543f1e85"
-export EMAIL="jane@example.com"
-dnf install npm
-node samplefile.js
-Server running at http://127.0.0.1:3000/
+    <!--Watson Assistant service credentials-->
+    <!-- REPLACE `ASSISTANT_ID_HERE` with ID of the Assistant to use  -->
+    <string name="assistant_id">ASSISTANT_ID_HERE</string>
+
+    <!-- REPLACE `ASSISTANT_API_KEY_HERE` with Watson Assistant service API Key-->
+    <string name="assistant_apikey">ASSISTANT_API_KEY_HERE</string>
+
+    <!-- The URL provided below is for a given region/location -->
+    <!-- If the Assistant service is created in another region/lpcation -->
+    <!-- REPLACE the URL with the one provided in the credentials of the service you created-->
+    <string name="assistant_url">URL</string>
 ```
-
-And repeat
+-------------------------------------------------------
+update the Watson Speech To Text(STT) API Key and URL
 
 ```bash
-curl localhost:3000
-Thanks for looking at Code-and-Response!
+    <!--Watson Speech To Text(STT) service credentials-->
+    <!-- REPLACE `STT_API_KEY_HERE` with Watson Speech to Text service API Key-->
+    <string name="STT_apikey">STT_API_KEY_HERE</string>
+
+    <!-- The URL provided below is for DALLAS region/location -->
+    <!-- If the STT service is created in another region/lpcation -->
+    <!-- REPLACE the URL with STT URL provided in the service credentials -->
+    <string name="STT_url">URL</string>
+```
+-------------------------------------------------------
+
+update the Watson Text To Speech(TTS) API Key and URL
+```bash
+    <!--Watson Text To Speech(TTS) service credentials-->
+    <!-- REPLACE `TTS_API_KEY_HERE` with Watson Text to Speech service API Key-->
+    <string name="TTS_apikey">TTS_API_KEY_HERE</string>
+
+    <!-- The URL provided below is for DALLAS region/location -->
+    <!-- If the TTS service is created in another region/lpcation -->
+    <!-- REPLACE the URL with TTS URL provided in the service credentials -->
+    <string name="TTS_url">URL</string>
 ```
 
 End with an example of getting some data out of the system or using it for a little demo
 
 ## Running the tests
 
-Explain how to run the automated tests for this system
+Espresso based UI Test automation is used in this Project.
 
-### Break down into end to end tests
+### How to run the UI tests
 
 Explain what these tests test and why, if you were using something like `mocha` for instance
 
@@ -130,15 +156,6 @@ vi test/test.js
 ./node_modules/mocha/bin/mocha
 ```
 
-### And coding style tests
-
-Explain what these tests test and why, if you chose `eslint` for example
-
-```bash
-npm install eslint --save-dev
-npx eslint --init
-npx eslint sample-file.js
-```
 
 ## Built with
 
