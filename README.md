@@ -75,7 +75,7 @@ During our market research we compared similar platforms, their features and val
 
 ##  Live Demo
 
-You can find a built in Debug APK [Android App](https://github.com/palcts/Educamote/blob/master/Assets/ios/v0%20app-debug%20.apk)
+You can find a built in Debug APK [Android App](https://github.com/palcts/Educamote/blob/master/Assets/ios/AndroidApkv2.apk)
 
 ## Clickable Prototype
 
