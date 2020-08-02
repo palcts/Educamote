@@ -148,12 +148,28 @@ Espresso based UI Test automation is used in this Project.
 
 ### How to run the UI tests
 
-Explain what these tests test and why, if you were using something like `mocha` for instance
+Run the tests in MainActivityTest to test the Watson Assistant end to end using `Espresso`. Test will input sample texts and tests the Response dialogs and sub responses.
+
+Either you could run the below command or run the tests using Android Studio IDE.
+```bash
+$ adb shell am instrument -w -r    -e debug false -e class 'com.educamote.eddiemote.MainActivityTest' com.educamote.eddiemote.test/android.support.test.runner.AndroidJUnitRunner
+```
+
+UI Tests console logs. 
 
 ```bash
-npm install mocha --save-dev
-vi test/test.js
-./node_modules/mocha/bin/mocha
+
+Testing started at 13:53 ...
+
+08/02 13:53:45: Launching 'MainActivityTest' on Samsung-abc.
+Running tests
+
+$ adb shell am instrument -w -r    -e debug false -e class 'com.educamote.eddiemote.MainActivityTest' com.educamote.eddiemote.test/android.support.test.runner.AndroidJUnitRunner
+
+Started running tests
+
+Connected to process 31151 on device 'Samsung-abc'.
+Tests ran to completion.
 ```
 
 
