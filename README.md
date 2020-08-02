@@ -148,7 +148,9 @@ Espresso based UI Test automation is used in this Project.
 
 ### How to run the UI tests
 
-Run the tests in MainActivityTest to test the Watson Assistant end to end using `Espresso`. Test will input sample texts and tests the Response dialogs and sub responses.
+`Espresso` based tests. Run the MainActivityTest to test the Watson Assistant end to end. Test will input sample texts and tests the Response dialog flows and sub responses.
+
+Watch the Video of UI captured during the test.  [Video Link](https://www.ibm.com/watson) 
 
 Either you could run the below command or run the tests using Android Studio IDE.
 ```bash
