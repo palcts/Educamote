@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#0029b0</color>
+    <color name="colorPrimaryDark">#00047f</color>
+    <color name="colorAccent">#fa4d56</color>
+
+    <color name="primaryColor">#0029b0</color>
+    <color name="primaryLightColor">#5853e3</color>
+    <color name="primaryDarkColor">#00047f</color>
+    <color name="secondaryColor">#fa4d56</color>
+    <color name="secondaryLightColor">#ff8283</color>
+    <color name="secondaryDarkColor">#c0002d</color>
+    <color name="primaryTextColor">#ffffff</color>
+    <color name="secondaryTextColor">#000000</color>
+
+
+    // Chat Bot
+    <!--color name="bg_bubble_self">#62caa6</color>
+    <color name="bg_bubble_watbot">#ecf0f1</color-->
+
+    <color name="bg_bubble_self">#0029b0</color>
+    <color name="bg_bubble_watbot">#ecf0f1</color>
+
+</resources>

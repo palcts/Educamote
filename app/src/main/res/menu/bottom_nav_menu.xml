@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_home"
+        android:icon="@drawable/home"
+        android:title="@string/title_home" />
+
+    <item
+        android:id="@+id/navigation_schedule"
+        android:icon="@drawable/book"
+        android:title="@string/title_schedule" />
+
+    <item
+        android:id="@+id/navigation_dashboard"
+        android:icon="@drawable/chat"
+        android:title="@string/title_chat" />
+
+    <item
+        android:id="@+id/navigation_homework"
+        android:icon="@drawable/homework"
+        android:title="@string/title_homework" />
+
+    <item
+        android:id="@+id/navigation_notifications"
+        android:icon="@drawable/play_circle"
+        android:title="@string/title_playground" />
+
+</menu>

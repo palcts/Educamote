@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">EddieMote</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_chat">Chat</string>
+    <string name="title_playground">Playground</string>
+    <string name="title_homework">Homework</string>
+    <string name="title_schedule">Schedule</string>
+    <string name="title_notifications">Playground</string>
+
+
+    <string name="what_s_on_your_mind">Enter your query</string>
+    <string name="menu_refresh">Refresh</string>
+</resources>
